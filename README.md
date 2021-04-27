@@ -1,5 +1,4 @@
 # SoloCarneQueso
- - proyecto SoloCarneQueso. 
 
 	> Registro de personas + verificación de correo + recuperar contraseña. 
 
