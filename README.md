@@ -34,7 +34,7 @@
 
 
 
- -> Stack SERN -  MySql, ExpressJs, React, NodeJs.
+ -> Stack MERN -  MySql, ExpressJs, React, NodeJs.
 
 
 IDEA del malito: 
