@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 var CronJob = require('cron').CronJob;
 
-const RIOT_API = "RGAPI-8b6bd88a-a4ec-4a7d-9b74-50b9a90b9f06";
+const RIOT_API = "";
 
 const app = express;
 const router = app.Router();
