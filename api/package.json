@@ -1,0 +1,29 @@
+{
+  "name": "SolocarneQuesoAPI",
+  "version": "1.0.0",
+  "description": "Api de la aplicación con el nombre en clave SOLOCARNEQUESO",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon /src/"
+  },
+  "keywords": [],
+  "author": "Ra1NuX, Jesus57, juanma",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "mysql": "^2.18.1",
+    "twisted": "^1.44.3"
+  }
+}
