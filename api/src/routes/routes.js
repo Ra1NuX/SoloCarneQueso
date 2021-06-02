@@ -75,7 +75,7 @@ router.get('/', async (req, res) => {
     //     }
     //   }, null, true, 'America/Los_Angeles');
 
-    job.start();
+    //job.start();
 
 
     carta = new Carta(ChallengerList[0].summonerName, Rol.ADC);
