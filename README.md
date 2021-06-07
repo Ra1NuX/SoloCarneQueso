@@ -31,7 +31,7 @@
 		* Cada lunes puedes robar jugadores de otras personas mediante puntos.
 		* Sistema antirobo de jugadores.
 
-
+	> Mod del juego para que los jugadores tengan niombres personalizados de arco. ( no se, pa mi que se ha fumado algo el jesus ) 
 
 
  -> Stack MERN -  MySql, ExpressJs, React, NodeJs.
